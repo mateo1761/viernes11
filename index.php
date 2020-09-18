@@ -60,4 +60,5 @@
     echo('El total es: '.$total);
     */
 
+    
 ?>
