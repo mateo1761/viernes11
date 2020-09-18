@@ -48,7 +48,7 @@
         break;
     } 
 
-   /* if($total<=80000)
+    /* if($total<=80000)
     {
         echo('Muchas gracias por su compra');
     }
@@ -60,5 +60,4 @@
     echo('El total es: '.$total);
     */
 
-    
 ?>
