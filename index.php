@@ -15,6 +15,7 @@
     $producto8='papa';
     $producto9='quesito';
     $producto10='frijoles';
+    $producto11='bananos';
 
     $precio1='22000';
     $precio2='5000';
@@ -26,12 +27,13 @@
     $precio8='5000';
     $precio9='8000';
     $precio10='7000';
+    $precio11='100';
 
-    $total=$precio1+$precio2+$precio3+$precio4+$precio5+$precio6+$precio7+$precio8+$precio9+$precio10;
+    $total=$precio1+$precio2+$precio3+$precio4+$precio5+$precio6+$precio7+$precio8+$precio9+$precio10+$precio11;
   //  $total=500;
   //  $total=1000000;
     //$producto8='bananos';
-    switch($producto3)
+    switch($producto11)
     {
         case 'manzana':
             echo('tienes descuentos del 10%');
@@ -44,7 +46,7 @@
         default :
             echo('no hay descuento');
         break;
-    }
+    } 
 
    /* if($total<=80000)
     {
@@ -54,7 +56,8 @@
     {
         echo('mijo tiene que ir por mas palta');
     }
+    
+    echo('El total es: '.$total);
     */
-    //echo('El total es: '.$total);
 
 ?>
