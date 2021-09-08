@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-08T18:53:49.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="gCHabqZWDqLHYP0Ejwbr" version="15.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-08T19:13:07.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="IRshSnYgAA7AHYdQxGKv" version="15.1.1" type="github">
   <diagram id="DKQmSKSB_YhBJJDihOOI" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -139,24 +139,37 @@
         <mxCell id="x01kGC2Ik8L-DM9hAHud-11" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Valor semestre&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="1660" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="x01kGC2Ik8L-DM9hAHud-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x01kGC2Ik8L-DM9hAHud-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="415" y="1980" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="x01kGC2Ik8L-DM9hAHud-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x01kGC2Ik8L-DM9hAHud-13" target="x01kGC2Ik8L-DM9hAHud-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x01kGC2Ik8L-DM9hAHud-13" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Métodos de pago&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="1840" width="120" height="80" as="geometry" />
+          <mxGeometry x="354" y="1930" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="x01kGC2Ik8L-DM9hAHud-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x01kGC2Ik8L-DM9hAHud-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="415" y="2140" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="x01kGC2Ik8L-DM9hAHud-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x01kGC2Ik8L-DM9hAHud-15" target="x01kGC2Ik8L-DM9hAHud-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x01kGC2Ik8L-DM9hAHud-15" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Finalizar compra&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="1980" width="120" height="80" as="geometry" />
+          <mxGeometry x="355" y="2090" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x01kGC2Ik8L-DM9hAHud-16" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="399" y="2140" width="30" height="30" as="geometry" />
+          <mxGeometry x="400" y="2240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x01kGC2Ik8L-DM9hAHud-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x01kGC2Ik8L-DM9hAHud-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="1900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x01kGC2Ik8L-DM9hAHud-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x01kGC2Ik8L-DM9hAHud-21" target="x01kGC2Ik8L-DM9hAHud-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x01kGC2Ik8L-DM9hAHud-21" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="394" y="1830" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x01kGC2Ik8L-DM9hAHud-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x01kGC2Ik8L-DM9hAHud-24" target="x01kGC2Ik8L-DM9hAHud-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x01kGC2Ik8L-DM9hAHud-24" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;La persona no se matricula&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1900" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
