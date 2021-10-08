@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T23:36:07.158Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="dpUP2iN8trTWNbDG01rN" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T23:56:25.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="7PZeJrpfH2kI1nIMu2n0" version="15.4.3" type="github">
   <diagram id="4mNhm1m8kC_6178GsUtq" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -193,22 +193,29 @@
         <mxCell id="QY5rsA0exa0MGwdynqQp-41" value="Base de datos" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="2400" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="QY5rsA0exa0MGwdynqQp-42" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="QY5rsA0exa0MGwdynqQp-41">
-          <mxGeometry x="40" y="80" width="20" height="50" as="geometry" />
+        <mxCell id="QY5rsA0exa0MGwdynqQp-47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="QY5rsA0exa0MGwdynqQp-41">
+          <mxGeometry x="45" y="200" width="15" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QY5rsA0exa0MGwdynqQp-43" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="QY5rsA0exa0MGwdynqQp-41">
-          <mxGeometry x="50" y="100" width="10" height="30" as="geometry" />
+        <mxCell id="QY5rsA0exa0MGwdynqQp-50" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="QY5rsA0exa0MGwdynqQp-41">
+          <mxGeometry x="50" y="220" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QY5rsA0exa0MGwdynqQp-44" value="Mostrar campos" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="QY5rsA0exa0MGwdynqQp-41" target="QY5rsA0exa0MGwdynqQp-43">
+        <mxCell id="QY5rsA0exa0MGwdynqQp-51" value="Verificar datos" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="QY5rsA0exa0MGwdynqQp-50" parent="QY5rsA0exa0MGwdynqQp-41">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="65" y="80" as="sourcePoint" />
+            <mxPoint x="60" y="210" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="95" y="80" />
+              <mxPoint x="90" y="210" />
+              <mxPoint x="90" y="230" />
+              <mxPoint x="70" y="230" />
+              <mxPoint x="70" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QY5rsA0exa0MGwdynqQp-45" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="QY5rsA0exa0MGwdynqQp-41">
-          <mxGeometry x="40" y="150" width="20" height="50" as="geometry" />
+        <mxCell id="QY5rsA0exa0MGwdynqQp-46" value="Enviar datos del usuario" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=-0.2;entryY=0.135;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="QY5rsA0exa0MGwdynqQp-47">
+          <mxGeometry x="0.3043" y="10" width="80" relative="1" as="geometry">
+            <mxPoint x="490" y="2600" as="sourcePoint" />
+            <mxPoint x="630" y="2600" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
