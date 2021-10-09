@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T18:49:56.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="HQEuZ3aH7FHxR2OUeQSE" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-09T18:52:57.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="K1lcUzBHVl804YM0fvmO" version="15.5.0" type="github">
   <diagram id="4mNhm1m8kC_6178GsUtq" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -413,6 +413,9 @@
         </mxCell>
         <mxCell id="ALo48LmrA9_RL08sOVxM-37" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;usuario se modifico correctamente&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="3340" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ALo48LmrA9_RL08sOVxM-39" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2915" width="630" height="215" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
