@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T18:29:26.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="s1krS3ihWKl63apRi8_F" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-09T18:49:56.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="HQEuZ3aH7FHxR2OUeQSE" version="15.5.0" type="github">
   <diagram id="4mNhm1m8kC_6178GsUtq" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -262,7 +262,7 @@
           <mxGeometry x="67.5" y="170" width="15" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ALo48LmrA9_RL08sOVxM-2" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(232, 230, 227); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(27, 30, 31); display: inline; float: none;&quot;&gt;Usuario&lt;/span&gt;&#xa;&#xa;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="174" y="2840" width="170" height="410" as="geometry" />
+          <mxGeometry x="174" y="2840" width="170" height="560" as="geometry" />
         </mxCell>
         <mxCell id="ALo48LmrA9_RL08sOVxM-3" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Modificar usuario&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=-0.16;entryY=0.364;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ALo48LmrA9_RL08sOVxM-2" target="ALo48LmrA9_RL08sOVxM-8">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -280,13 +280,13 @@
           <mxGeometry x="77.5" y="240" width="15" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ALo48LmrA9_RL08sOVxM-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ALo48LmrA9_RL08sOVxM-2">
-          <mxGeometry x="76" y="320" width="15" height="40" as="geometry" />
+          <mxGeometry x="76" y="320" width="15" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ALo48LmrA9_RL08sOVxM-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ALo48LmrA9_RL08sOVxM-2">
-          <mxGeometry x="16" y="190" width="10" height="80" as="geometry" />
+        <mxCell id="ALo48LmrA9_RL08sOVxM-36" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ALo48LmrA9_RL08sOVxM-2">
+          <mxGeometry x="77.5" y="470" width="15" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ALo48LmrA9_RL08sOVxM-7" value="Interfaz de usuario" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="2840" width="100" height="410" as="geometry" />
+        <mxCell id="ALo48LmrA9_RL08sOVxM-7" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Interfaz de usuario&lt;/font&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="2840" width="100" height="560" as="geometry" />
         </mxCell>
         <mxCell id="ALo48LmrA9_RL08sOVxM-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ALo48LmrA9_RL08sOVxM-7">
           <mxGeometry x="40" y="80" width="20" height="50" as="geometry" />
@@ -308,7 +308,7 @@
         <mxCell id="ALo48LmrA9_RL08sOVxM-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ALo48LmrA9_RL08sOVxM-7">
           <mxGeometry x="45" y="230" width="15" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ALo48LmrA9_RL08sOVxM-13" value="Usuario existente" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=-0.16;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ALo48LmrA9_RL08sOVxM-7">
+        <mxCell id="ALo48LmrA9_RL08sOVxM-13" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Usuario no existe&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=-0.16;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ALo48LmrA9_RL08sOVxM-7">
           <mxGeometry x="-0.0526" y="20" width="80" relative="1" as="geometry">
             <mxPoint x="250" y="240" as="sourcePoint" />
             <mxPoint x="60" y="240" as="targetPoint" />
@@ -316,18 +316,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ALo48LmrA9_RL08sOVxM-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ALo48LmrA9_RL08sOVxM-7">
-          <mxGeometry x="40" y="320" width="15" height="40" as="geometry" />
+          <mxGeometry x="45" y="310" width="15" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ALo48LmrA9_RL08sOVxM-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ALo48LmrA9_RL08sOVxM-7">
+          <mxGeometry x="45" y="400" width="15" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ALo48LmrA9_RL08sOVxM-15" value="Base de datos" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="2840" width="100" height="410" as="geometry" />
+          <mxGeometry x="640" y="2840" width="100" height="560" as="geometry" />
         </mxCell>
         <mxCell id="ALo48LmrA9_RL08sOVxM-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ALo48LmrA9_RL08sOVxM-15">
-          <mxGeometry x="45" y="210" width="15" height="90" as="geometry" />
+          <mxGeometry x="45" y="210" width="15" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ALo48LmrA9_RL08sOVxM-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ALo48LmrA9_RL08sOVxM-15">
           <mxGeometry x="50" y="220" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ALo48LmrA9_RL08sOVxM-18" value="Verificar datos" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="ALo48LmrA9_RL08sOVxM-15" target="ALo48LmrA9_RL08sOVxM-17">
+        <mxCell id="ALo48LmrA9_RL08sOVxM-18" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Verificar Usuario&lt;/font&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="ALo48LmrA9_RL08sOVxM-15" target="ALo48LmrA9_RL08sOVxM-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="210" as="sourcePoint" />
             <Array as="points">
@@ -337,6 +340,79 @@
               <mxPoint x="70" y="220" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ALo48LmrA9_RL08sOVxM-31" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ALo48LmrA9_RL08sOVxM-15">
+          <mxGeometry x="42.5" y="400" width="17.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ALo48LmrA9_RL08sOVxM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.96;entryY=0.225;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ALo48LmrA9_RL08sOVxM-15" source="ALo48LmrA9_RL08sOVxM-31" target="ALo48LmrA9_RL08sOVxM-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="58" y="438" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="51" y="380" />
+              <mxPoint x="80" y="380" />
+              <mxPoint x="80" y="435" />
+              <mxPoint x="70" y="435" />
+              <mxPoint x="70" y="438" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALo48LmrA9_RL08sOVxM-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ALo48LmrA9_RL08sOVxM-15">
+          <mxGeometry x="50" y="430" width="15" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ALo48LmrA9_RL08sOVxM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.04;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ALo48LmrA9_RL08sOVxM-11" target="ALo48LmrA9_RL08sOVxM-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="3015" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALo48LmrA9_RL08sOVxM-21" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;enviar id&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="2990" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ALo48LmrA9_RL08sOVxM-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.02;entryY=0.255;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ALo48LmrA9_RL08sOVxM-12" target="ALo48LmrA9_RL08sOVxM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ALo48LmrA9_RL08sOVxM-23" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Usuario no registrado&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="304" y="3100" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ALo48LmrA9_RL08sOVxM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.307;exitY=0.838;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.053;entryY=0.225;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ALo48LmrA9_RL08sOVxM-16" target="ALo48LmrA9_RL08sOVxM-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="609.1" y="3159.8" as="sourcePoint" />
+            <mxPoint x="510" y="3160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALo48LmrA9_RL08sOVxM-25" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;retoma método modificar&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="3170" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ALo48LmrA9_RL08sOVxM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.387;entryY=0.134;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ALo48LmrA9_RL08sOVxM-14" target="ALo48LmrA9_RL08sOVxM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ALo48LmrA9_RL08sOVxM-27" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;mostrar datos del usuario&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="294" y="3180" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ALo48LmrA9_RL08sOVxM-29" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Digitar modificaciones&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1.013;exitY=0.877;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.093;entryY=0.155;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ALo48LmrA9_RL08sOVxM-6" target="ALo48LmrA9_RL08sOVxM-28">
+          <mxGeometry x="-0.1118" y="-25" width="80" relative="1" as="geometry">
+            <mxPoint x="274" y="3251.8" as="sourcePoint" />
+            <mxPoint x="414" y="3260" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALo48LmrA9_RL08sOVxM-30" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Datos modificados&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1.213;exitY=0.575;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.073;entryY=0.329;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ALo48LmrA9_RL08sOVxM-28" target="ALo48LmrA9_RL08sOVxM-31">
+          <mxGeometry x="-0.1118" y="-25" width="80" relative="1" as="geometry">
+            <mxPoint x="520.0049999999999" y="3251.39" as="sourcePoint" />
+            <mxPoint x="600" y="3240" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALo48LmrA9_RL08sOVxM-32" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Almacenar cambios&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="3280" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ALo48LmrA9_RL08sOVxM-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.233;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ALo48LmrA9_RL08sOVxM-34" target="ALo48LmrA9_RL08sOVxM-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515.2" y="3370.62" as="sourcePoint" />
+            <mxPoint x="311.00500000000005" y="3370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALo48LmrA9_RL08sOVxM-37" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;usuario se modifico correctamente&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="3340" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
