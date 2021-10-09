@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T23:56:25.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="7PZeJrpfH2kI1nIMu2n0" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-09T00:00:31.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="7HXwcT7aW0ahE12L0Om5" version="15.4.3" type="github">
   <diagram id="4mNhm1m8kC_6178GsUtq" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,7 +171,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QY5rsA0exa0MGwdynqQp-34" value="Interfaz de usuario" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="2400" width="100" height="300" as="geometry" />
+          <mxGeometry x="430" y="2400" width="100" height="310" as="geometry" />
         </mxCell>
         <mxCell id="QY5rsA0exa0MGwdynqQp-36" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="QY5rsA0exa0MGwdynqQp-34">
           <mxGeometry x="40" y="80" width="20" height="50" as="geometry" />
@@ -189,6 +189,16 @@
         </mxCell>
         <mxCell id="QY5rsA0exa0MGwdynqQp-40" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="QY5rsA0exa0MGwdynqQp-34">
           <mxGeometry x="40" y="150" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QY5rsA0exa0MGwdynqQp-53" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="QY5rsA0exa0MGwdynqQp-34">
+          <mxGeometry x="45" y="230" width="15" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QY5rsA0exa0MGwdynqQp-52" value="Usuario existente" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=-0.16;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="QY5rsA0exa0MGwdynqQp-34" source="QY5rsA0exa0MGwdynqQp-50">
+          <mxGeometry x="-0.0526" y="20" width="80" relative="1" as="geometry">
+            <mxPoint x="250" y="240" as="sourcePoint" />
+            <mxPoint x="60" y="240" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="QY5rsA0exa0MGwdynqQp-41" value="Base de datos" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="2400" width="100" height="300" as="geometry" />
